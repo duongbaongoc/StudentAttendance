@@ -1,0 +1,6 @@
+This is list of students whose number of absences is at least 1.
+
+Student 10:
+ID: 3255	Name: Mort,Kris           Email: mort@cpts122.edu
+Units: 4	Program: CS		Level: Senior
+Number of Absences: 1		Most Recent Absent Date: 2017-7-20

@@ -1,0 +1,51 @@
+This is list of all students.
+
+Student 1:
+ID: 1111	Name: Smith,John          Email: smithj@cpts122.edu
+Units: 4	Program: CS		Level: Freshman
+Number of Absences: 0		Most Recent Absent Date: No absence.
+
+Student 2:
+ID: 8147	Name: Beck,Sara           Email: sara@cpts122.edu
+Units: 4	Program: EE		Level: Junior
+Number of Absences: 0		Most Recent Absent Date: No absence.
+
+Student 3:
+ID: 1121	Name: Leinart,Timothy     Email: tim@cpts122.edu
+Units: 4	Program: EE		Level: Junior
+Number of Absences: 0		Most Recent Absent Date: No absence.
+
+Student 4:
+ID: 4478	Name: Art,Bruce           Email: bart@cpts122.edu
+Units: AU	Program: CPTE		Level: Freshman
+Number of Absences: 0		Most Recent Absent Date: No absence.
+
+Student 5:
+ID: 2121	Name: James,Hannah        Email: jameshannah@cpts122.edu
+Units: 4	Program: CS		Level: Freshman
+Number of Absences: 0		Most Recent Absent Date: No absence.
+
+Student 6:
+ID: 5530	Name: Payton,Ella         Email: epayton@cpts122.edu
+Units: 4	Program: CPTE		Level: Graduate
+Number of Absences: 0		Most Recent Absent Date: No absence.
+
+Student 7:
+ID: 7759	Name: Sam,Theo            Email: samt@cpts122.edu
+Units: 4	Program: EE		Level: Sophomore
+Number of Absences: 0		Most Recent Absent Date: No absence.
+
+Student 8:
+ID: 1122	Name: Smith,Jane          Email: jane@cpts122.edu
+Units: 4	Program: CS		Level: Sophomore
+Number of Absences: 0		Most Recent Absent Date: No absence.
+
+Student 9:
+ID: 1222	Name: Willis,Bruce        Email: brucewillis@cpts122.edu
+Units: AU	Program: CS		Level: Sophomore
+Number of Absences: 0		Most Recent Absent Date: No absence.
+
+Student 10:
+ID: 3255	Name: Mort,Kris           Email: mort@cpts122.edu
+Units: 4	Program: CS		Level: Senior
+Number of Absences: 1		Most Recent Absent Date: 2017-7-20
